@@ -9,6 +9,4 @@ h3 { margin-top: 0; }
 
 .col-sm-8 li { padding-bottom: 1em; }
 
-.book-form {
-    display: none;
-}
+.book-form { display: none; }

@@ -1,5 +1,6 @@
-Book.destroy_all
+BookGenre.destroy_all
 Genre.destroy_all
+Book.destroy_all
 
 fiction = Genre.create!(name: 'Fiction')
 apple = Genre.create!(name: 'Apple')
